@@ -1,0 +1,8 @@
+C:\Dropbox\Projects\SIMPL#\WeatherUnderground\WeatherUnderground\obj\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Projects\SIMPL#\WeatherUnderground\WeatherUnderground\bin\Debug\WeatherUnderground.dll
+C:\Dropbox\Projects\SIMPL#\WeatherUnderground\WeatherUnderground\bin\Debug\WeatherUnderground.pdb
+C:\Dropbox\Projects\SIMPL#\WeatherUnderground\WeatherUnderground\bin\Debug\Newtonsoft.Json.Compact.dll
+C:\Dropbox\Projects\SIMPL#\WeatherUnderground\WeatherUnderground\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Dropbox\Projects\SIMPL#\WeatherUnderground\WeatherUnderground\bin\Debug\SimplSharpHelperInterface.dll
+C:\Dropbox\Projects\SIMPL#\WeatherUnderground\WeatherUnderground\obj\Debug\WeatherUnderground.dll
+C:\Dropbox\Projects\SIMPL#\WeatherUnderground\WeatherUnderground\obj\Debug\WeatherUnderground.pdb
